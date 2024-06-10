@@ -1,0 +1,40 @@
+.title{
+    font-size: 15px;
+}
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.negrito{
+    font-weight: bold;
+}
+.capa{
+    background-image: url(capa.jpg);
+    background-size: cover;
+    padding: 200px;
+    padding-left: 70%;
+}
+.fundo{
+    background-image: url(fundo.jpg);
+    background-attachment: fixed;
+    padding: 40px;
+    text-align: center;
+    border: 2px solid white;
+    background-color: white;
+}
+.borda{
+   border-left: 2px solid;
+   padding-left: 15px;
+   margin-left: 21%;
+}
+span{
+    border: 2px solid white;
+    background-color: white;
+    border-radius: 25px;
+    padding: 10px;
+}
+.sobrenos{
+    text-align: center;
+}
+.centralizar, .centralizar2{
+    margin-left: 20%;
+}
